@@ -17,21 +17,28 @@ The project demonstrates multi-column text formatting, sidebars, and adaptive st
 ## 🛠️ Technologies Used
 - **HTML5** – Semantic structure  
 - **CSS3** – Grid, Flexbox, Columns, Media Queries  
-- **JavaScript (Vanilla)** – Interactivity  
+- **JavaScript** – Interactivity  
 ---
 
 ## 🚀 Getting Started
 
 1. **Clone the repository**
+   
    git clone https://github.com/Harsha2614/Newspaper-Layout-JS.git
+   
 2. **Navigate into the folder**
+   
    cd Newspaper-Layout-JS
    
-Open index.html in your browser
+3. **Open index.html in your browser**
 
 # 📂 Project Structure
 Newspaper-Layout-JS/
+
 │── index.html        # Main HTML file
+
 │── styles.css        # Styling (grid, flex, columns, media queries)
+
 │── script.js         # JavaScript (optional interactivity)
+
 │── README.md         # Documentation
